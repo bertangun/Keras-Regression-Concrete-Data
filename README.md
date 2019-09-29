@@ -6,13 +6,13 @@ In this project, let's build a regression model using the Keras library to model
 
 For your convenience, the data can be found here again: https://cocl.us/concrete_data. To recap, the predictors in the data of concrete strength include:
 
-  Cement
-  Blast Furnace Slag
-  Fly Ash
-  Water
-  Superplasticizer
-  Coarse Aggregate
-  Fine Aggregate
+  -Cement
+  -Blast Furnace Slag
+  -Fly Ash
+  -Water
+  -Superplasticizer
+  -Coarse Aggregate
+  -Fine Aggregate
 
 ### A. Build a baseline model
 
