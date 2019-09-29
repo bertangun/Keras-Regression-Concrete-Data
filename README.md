@@ -29,7 +29,7 @@ Use the Keras library to build a neural network with the following:
 
 Repeat Part A but use a normalized version of the data. Recall that one way to normalize the data is by subtracting the mean from the individual predictors and dividing by the standard deviation.
 
-### C. Increate the number of epochs
+### C. Increace the number of epochs
 
 Repeat Part B but use 100 epochs this time for training.
 
